@@ -1,4 +1,4 @@
-web: gunicorn main:app
+
 from flask import Flask
 
 application = Flask(__match-Analyzer__)

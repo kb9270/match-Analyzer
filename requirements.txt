@@ -34,5 +34,8 @@ Pillow
 
 # Optionnel (YOLOv5 ou détection objets)
 ultralytics
+
+flask
 gunicorn
+
 

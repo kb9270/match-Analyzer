@@ -40,4 +40,7 @@ Pillow
 
 # Optionnel (YOLOv5 ou détection objets)
 ultralytics
+git add requirements.txt
+git commit -m "Ajout des dépendances pour Render"
+git push origin main
 

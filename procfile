@@ -1,3 +1,4 @@
-web: gunicorn app:application
+web: gunicorn match-analyzer:application
+
 
 

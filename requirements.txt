@@ -35,6 +35,4 @@ Pillow
 # Optionnel (YOLOv5 ou détection objets)
 ultralytics
 gunicorn
-git add requirements.txt
-git commit -m "Ajout de gunicorn pour Render"
-git push origin main
+

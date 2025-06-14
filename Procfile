@@ -1,7 +1,7 @@
 web: gunicorn main:app
 from flask import Flask
 
-application = Flask(__name__)
+application = Flask(__match-Analyzer__)
 
 @application.route("/")
 def index():

@@ -1,2 +1,2 @@
-web: gunicorn match-analyzer:application
+web: gunicorn app:application
 
